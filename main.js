@@ -52,9 +52,9 @@ function execute(){
     verifyBtn.addEventListener("click", function(){
         console.log(randWord.innerHTML)
         if (input.value === randArray.join('')) {
-            alert("Success!")
+            alert("CAPTCHA passed!")
         } else {
-            alert("Failed!")
+            alert("Incorrect entry")
             reload()
         }
     })
