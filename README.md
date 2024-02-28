@@ -4,12 +4,12 @@ This is a simple CAPTCHA COMPONENT project aimed at differentiating bots from re
 
 ## Table of contents
 
-- [The challenge](#the-challenge)
+- [The goal](#the-goal)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 
-### The challenge
+### The goal
 
 Users should be able to:
 
